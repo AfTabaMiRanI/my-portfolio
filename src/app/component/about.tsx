@@ -20,8 +20,8 @@ const About = () => {
         About Me
       </h1>
       <p className="mb-8 leading-relaxed">
-        I am From Kandhkot Sindh Pakistan, I have completed my Bachlo's from Shah Abdul Latif University of Khairpur. 
-        In my spare time I enjoy the reading novels, watching TV Programs and Playing cricket
+        I am From Kandhkot Sindh Pakistan. I have completed my Bachlors from Shah Abdul Latif University of Khairpur. 
+        In my spare time I enjoy the reading novels watching TV Programs and Playing cricket
       </p>
       
       <div className="flex justify-center">
